@@ -1,0 +1,9 @@
+Replace the placeholder project images with your own JPG files using these exact names:
+img-1.jpg = Hero / flagship project
+img-2.jpg = Urban planning / development
+img-3.jpg = Traffic Impact Analysis / traffic survey
+img-4.jpg = GIS / RS / thematic mapping
+img-5.jpg = Topographic survey
+img-6.jpg = Landscape / public realm
+
+Keep logo.jpg as the company logo unless you want to replace it.
