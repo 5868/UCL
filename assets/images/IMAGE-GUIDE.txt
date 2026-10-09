@@ -1,0 +1,14 @@
+URBAN CONSULTANTS LTD. — IMAGE FILE GUIDE
+
+Place JPG files in this folder: assets/images/
+Use exact lowercase filenames:
+- logo.jpg  : company logo (already included)
+- img-1.jpg : homepage hero / flagship planning image
+- img-2.jpg : urban planning / development project
+- img-3.jpg : traffic impact analysis / traffic survey
+- img-4.jpg : GIS / remote sensing / thematic mapping
+- img-5.jpg : topographic / site survey
+- img-6.jpg : landscape / public realm
+
+Image paths are already connected. No code edits are needed when you add or replace these files.
+Recommended landscape images around 4:3 or 16:10. Publish only visuals you have permission to use.
